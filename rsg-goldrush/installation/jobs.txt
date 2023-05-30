@@ -1,0 +1,48 @@
+   ['goldsmelter'] = {
+        label = 'Gold Smelter',
+        defaultDuty = true,
+        offDutyPay = false,
+        grades = {
+            ['0'] = {
+                name = 'Greenhorn',
+                payment = 5
+            },
+            ['1'] = {
+                name = 'Gold King',
+                isboss = true,
+                payment = 15
+            },
+        },
+    },
+    ['goldsmelter1'] = {
+        label = 'Gold Smelter',
+        defaultDuty = true,
+        offDutyPay = false,
+        grades = {
+            ['0'] = {
+                name = 'Greenhorn',
+                payment = 5
+            },
+            ['1'] = {
+                name = 'Gold King',
+                isboss = true,
+                payment = 15
+            },
+        },
+    },
+    ['goldsmelter2'] = {
+        label = 'Gold Smelter',
+        defaultDuty = true,
+        offDutyPay = false,
+        grades = {
+            ['0'] = {
+                name = 'Greenhorn',
+                payment = 5
+            },
+            ['1'] = {
+                name = 'Gold King',
+                isboss = true,
+                payment = 15
+            },
+        },
+    },

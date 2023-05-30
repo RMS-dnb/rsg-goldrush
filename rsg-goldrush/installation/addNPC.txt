@@ -1,0 +1,7 @@
+go to rsg-npcs/config
+
+add this 
+  {    -- goldbar vendor
+    model = `A_M_M_RHDObeseMen_01`,
+    coords = vector4(-821.3707, -1279.122, 43.638046, 262.09585),
+    },
